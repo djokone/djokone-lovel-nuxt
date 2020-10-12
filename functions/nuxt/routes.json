@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "E:\\\\sites\\\\projects\\\\lovel\\\\Lab\\\\nuxt-firebase\\\\src\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_65011d60"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\sites\\\\projects\\\\lovel\\\\Lab\\\\nuxt-firebase\\\\src\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4e0c2fa7"
+  }
+]

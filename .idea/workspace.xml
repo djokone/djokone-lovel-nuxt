@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e7ef72c-0810-4396-8a76-a856a891736f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore.indexes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore.rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage.rules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lovel-manager/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lovel-manager/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lovel-manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lovel-manager/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lovel-manager/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lovel-manager/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lovel-manager/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../lovel-manager/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lovel-manager/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../lovel-manager/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lovel-manager/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lovel-manager/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lovel-manager/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../lovel-manager/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="9975" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1ihstJP3fNBvV9cievLFgkWy8fs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/functions" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="E:\sites\projects\lovel\Lab\nuxt-firebase\src\node_modules\stylelint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sites\projects\lovel\Lab\nuxt-firebase\public" />
+      <recent name="E:\sites\projects\lovel\Lab\nuxt-firebase\functions" />
+      <recent name="E:\sites\projects\lovel\Lab\nuxt-firebase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sites\projects\lovel\Lab\nuxt-firebase\functions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7ef72c-0810-4396-8a76-a856a891736f" name="Default Changelist" comment="" />
+      <created>1602371390653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602371390653</updated>
+      <workItem from="1602371397050" duration="11874000" />
+      <workItem from="1602490886181" duration="4078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1096" y="418" key="#ESLint" timestamp="1602373157506">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1096" y="418" key="#ESLint/0.0.1920.1040/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1602373157506" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1602497029721">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1602497029721" />
+  </component>
+</project>
